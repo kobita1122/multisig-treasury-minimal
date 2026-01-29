@@ -1,0 +1,8 @@
+{
+  "name": "multisig-treasury-minimal",
+  "version": "1.0.0",
+  "description": "Minimalist Multi-Signature Wallet for DAOs",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
